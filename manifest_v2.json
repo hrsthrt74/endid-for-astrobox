@@ -29,36 +29,45 @@
       "icon": "",
       "title": "创作历程",
       "url": "https://hrsthrt74.github.io/docs/creation/watchface/endID.html"
+    },
+    {
+      "icon": "",
+      "title": "支持我",
+      "url": "https://afdian.com/a/hrsthrt74"
     }
   ],
   "downloads": {
     "xmrw6": {
-      "version": "1.0",
-      "file_name": "endID for RW v1.0 by hrsthrt74.bin"
+      "version": "1.5",
+      "file_name": "endID for RW v1.5 by hrsthrt74.bin"
     },
     "xmrw5xring": {
-      "version": "1.0",
-      "file_name": "endID for RW v1.0 by hrsthrt74.bin"
+      "version": "1.5",
+      "file_name": "endID for RW v1.5 by hrsthrt74.bin"
     },
     "xmrw5": {
-      "version": "1.0",
-      "file_name": "endID for RW v1.0 by hrsthrt74.bin"
+      "version": "1.5",
+      "file_name": "endID for RW v1.5 by hrsthrt74.bin"
     },
     "xmws4": {
-      "version": "1.1",
-      "file_name": "endID for S4 v1.1 by hrsthrt74.bin"
+      "version": "1.5",
+      "file_name": "endID for S4 v1.5 by hrsthrt74.bin"
     },
     "xmb9p": {
-      "version": "1.0",
-      "file_name": "endID for 9P v1.0 by hrsthrt74.bin"
+      "version": "1.5",
+      "file_name": "endID for 9P v1.5 by hrsthrt74.bin"
+    },
+    "xmb9": {
+      "version": "1.5",
+      "file_name": "endID for Band9 v1.5 by hrsthrt74.bin"
     },
     "xmb10": {
-      "version": "1.0",
-      "file_name": "endID for Band10 v1.0 by hrsthrt74.bin"
+      "version": "1.5",
+      "file_name": "endID for Band10 v1.5 by hrsthrt74.bin"
     },
     "xmb10nfc": {
-      "version": "1.0",
-      "file_name": "endID for Band10 v1.0 by hrsthrt74.bin"
+      "version": "1.5",
+      "file_name": "endID for Band10 v1.5 by hrsthrt74.bin"
     }
   },
   "ext": {}
