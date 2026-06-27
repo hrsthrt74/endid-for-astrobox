@@ -8,7 +8,8 @@
       "preview0.png",
       "preview1.png",
       "preview2.png",
-      "preview3.png"
+      "preview3.png",
+      "preview4.png"
     ],
     "icon": "icon.png",
     "cover": "cover.png",
@@ -33,36 +34,40 @@
   ],
   "downloads": {
     "xmrw6": {
-      "version": "2.0",
-      "file_name": "endID for RW v2.0 by hrsthrt74.bin"
+      "version": "2.4",
+      "file_name": "endID for RW v2.4 by hrsthrt74.bin"
     },
     "xmrw5xring": {
-      "version": "2.0",
-      "file_name": "endID for RW v2.0 by hrsthrt74.bin"
+      "version": "2.4",
+      "file_name": "endID for RW v2.4 by hrsthrt74.bin"
     },
     "xmrw5": {
-      "version": "2.0",
-      "file_name": "endID for RW v2.0 by hrsthrt74.bin"
+      "version": "2.4",
+      "file_name": "endID for RW v2.4 by hrsthrt74.bin"
     },
     "xmws4": {
-      "version": "2.1",
-      "file_name": "endID for S4 v2.1 by hrsthrt74.bin"
+      "version": "2.4",
+      "file_name": "endID for S4 v2.4 by hrsthrt74.bin"
     },
     "xmb9p": {
-      "version": "2.0",
-      "file_name": "endID for 9P v2.0 by hrsthrt74.bin"
+      "version": "2.4",
+      "file_name": "endID for 9P v2.4 by hrsthrt74.bin"
     },
     "xmb9": {
       "version": "2.0",
       "file_name": "endID for Band9 v2.0 by hrsthrt74.bin"
     },
     "xmb10": {
-      "version": "2.1",
-      "file_name": "endID for Band10 v2.1 by hrsthrt74.bin"
+      "version": "2.4",
+      "file_name": "endID for Band10 v2.4 by hrsthrt74.bin"
     },
     "xmb10nfc": {
-      "version": "2.1",
-      "file_name": "endID for Band10 v2.1 by hrsthrt74.bin"
+      "version": "2.4",
+      "file_name": "endID for Band10 v2.4 by hrsthrt74.bin"
+    },
+    "xmws5": {
+      "version": "2.4",
+      "file_name": "endID for S5 v2.4 by hrsthrt74.bin"
     }
   },
   "ext": {}
